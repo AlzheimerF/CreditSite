@@ -1,0 +1,5 @@
+db.sqlite3
+user/migrations
+post/migrations
+.env
+venv
